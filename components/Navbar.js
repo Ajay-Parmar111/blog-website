@@ -47,7 +47,9 @@ const Navbar = () => {
       />
       <div className="container mx-auto flex justify-between items-center">
         <Link href={"/"}>
-          <div className="text-lg font-bold">AjayBlog</div>
+          <div className="text-lg font-bold">
+            <img src="/logo.png" className="w-10 h-10" alt="Ajay Blog" />
+          </div>
         </Link>
         <div className="hidden md:flex space-x-4 items-center">
           <Link
