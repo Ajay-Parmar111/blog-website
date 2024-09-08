@@ -1,5 +1,5 @@
 "use client";
-import { Button } from "@/blog-website/components/ui/button";
+import { Button } from "@/components/ui/button";
 import Typed from "typed.js";
 import React, { useRef, useEffect } from "react";
 

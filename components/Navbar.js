@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Link from "next/link";
-import { Button } from "@/blog-website/components/ui/button";
+import { Button } from "@/components/ui/button";
 import {
   Sheet,
   SheetContent,
@@ -9,7 +9,7 @@ import {
   SheetHeader,
   SheetTitle,
   SheetTrigger,
-} from "@/blog-website/components/ui/sheet";
+} from "@/components/ui/sheet";
 
 import { ModeToggle } from "./theme-btn";
 import LoadingBar from "react-top-loading-bar";

@@ -1,5 +1,5 @@
 import React from "react";
-import { buttonVariants } from "@/blog-website/components/ui/button";
+import { buttonVariants } from "@/components/ui/button";
 import Link from "next/link";
 import fs from "fs";
 import matter from "gray-matter";
